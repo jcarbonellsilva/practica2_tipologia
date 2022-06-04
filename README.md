@@ -8,7 +8,7 @@ Aquesta pràctica demana realitzar un anàlisi de les dades per avaluar les comp
 
 ## La pràctica consta d'analitzar, netejar i extreure els insights més adequats d'un dataset
 
-El dataset que s'ha utilitzar per realitzar el anàlisi és el dataset en format CSV anomenat winedata que poden trobar com arxiu a aquest repositori.
+El dataset que s'ha utilitzar per realitzar el anàlisi és el dataset en format CSV anomenat winequality-red que poden trobar com arxiu a aquest repositori.
 
 A aquest repositori també poden trobar els següents documents:
 * Codi de la pràctica
